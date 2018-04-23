@@ -1,0 +1,29 @@
+h1{
+  font-size: 3em;
+}
+body{
+  background-color: #181818;
+  color: white;
+}
+#author{
+  vertical-align: bottom;
+  margin-top: 10%;
+}
+p{
+  font-size: 2em;
+  text-align: center;
+}
+img{
+  width: 10%;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button {
+  border-radius: 25%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #ccc;
+  color: white;
+ }
